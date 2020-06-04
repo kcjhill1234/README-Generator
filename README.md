@@ -9,7 +9,7 @@ TODO Finish description
 
 Clone repository
 
-Open a terminal and run the following commands:
+Open a terminal in the project and run the following commands:
 
 ```sh
 npm install
