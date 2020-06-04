@@ -2,8 +2,7 @@
 
 ## Description
 
-TODO Finish description
-
+NodeJS command-line tool for generating a README files for projects
 
 ## How to Install
 
